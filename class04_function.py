@@ -1,21 +1,21 @@
-# def hello(name):
-#     print("ชื่อคือ:",name)
+def hello(name):
+    print("ชื่อคือ:",name)
     
-# name = input("ใส่ชื่อ: ")
-# hello(name)
+name = input("ใส่ชื่อ: ")
+hello(name)
 
 #------------------------------------
 
-# def sum(a,b):
-#     result = a + b
-#     return result
+def sum(a,b):
+    result = a + b
+    return result
 
-# num1 = int(input("ใส่เลข: "))
-# num2 = int(input("ใส่เลข: "))
+num1 = int(input("ใส่เลข: "))
+num2 = int(input("ใส่เลข: "))
 
-# result = sum(num1,num2)
+result = sum(num1,num2)
 
-# print("ผลรวม:",result)
+print("ผลรวม:",result)
 
 #---------------------------------------
 
